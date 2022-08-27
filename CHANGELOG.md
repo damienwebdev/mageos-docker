@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/damienwebdev/mageos-docker/compare/v1.0.0...v2.0.1) (2022-08-27)
+
+
+### Miscellaneous Chores
+
+* release 1.0.1 ([284d7c1](https://github.com/damienwebdev/mageos-docker/commit/284d7c14bbaf3b4d18bdd7a2147dfcc7f3f2a60c))
+
 ## 1.0.0 (2022-08-27)
 
 
